@@ -1,2 +1,2 @@
 # git-fundamentals
-This for learning purpose.
+This is for learning purpose.
